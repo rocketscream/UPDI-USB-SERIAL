@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "UPDI-USB-SERIAL")(type "KiCad")(uri "${KIPRJMOD}/UPDI-USB-SERIAL.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)

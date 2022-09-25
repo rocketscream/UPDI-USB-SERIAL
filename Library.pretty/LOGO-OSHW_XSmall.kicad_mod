@@ -1,14 +1,16 @@
 (footprint "LOGO-OSHW_XSmall" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (property "Sheetfile" "UPDI-USB-SERIAL.kicad_sch")
+  (property "Sheetname" "")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp f9835487-d234-4d39-88bd-bc3c176fba8a)
+    (tstamp 54ac8791-78e5-42dd-8004-b151a5d4d82c)
   )
   (fp_text value "LOGO-OSHW" (at 0.75 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp 3953af3c-6ea2-427b-86aa-b9168621d712)
+    (tstamp 28ca35f8-334b-4719-8afa-d64ffacffe31)
   )
   (fp_poly (pts
       (xy 0.106978 -2.702512)
@@ -540,5 +542,5 @@
       (xy -0.406013 -2.70256)
       (xy 0.004588 -2.70256)
       (xy 0.106978 -2.702512)
-    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 5d5dc3b8-a380-42e9-a56e-07761c66781c))
+    ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 94d1c9a3-0b5f-4eb8-85c3-33138ec0965e))
 )
